@@ -1,15 +1,20 @@
 ﻿# Objective
 
 This is a repository to implement codes introduced in the following book:'[「Python実践機械学習システム100本ノック」](https://www.shuwasystem.co.jp/book/9784798063416.html)'.
-Original download file is here.
+Original download file is [here](https://www.shuwasystem.co.jp/support/7980html/6341.html).
 
 ## Objective Phases
-1. First Stage
-   1. Learn from examples to implement variety of minimal viable products in the streams of advanced analytics.
-   2. Aut]
-2. The next objective is to come up with quick-win strategies + implementation that can be done in current working environment. adapt the learning from the book to real business, especially in my current working environment to speed up and automate redundant processes that sucks up important resources of the company.
 
-Such as follows:
+Learn from examples to implement variety of minimal viable products in the streams of advanced analytics.
+1. First Stage
+   1. Finish Part 1 by End of Goldenweek Holidays (2022/05/08)
+   2. Finish Part 2 (TBD : By Early June for now)
+
+2. Second Stage
+   1. Come up with quick-win strategies + implementation that can be done in current working environment.
+   2. Adapt the learning from the book to real business, especially in my current working environment to speed up and automate redundant processes that sucks up important resources of the company.
+
+## Potential Output after Finishing 2 Phases
 
 1. Automation of redundant processes.
 2. Applying simple but robust ML model on frequent refreshed datasets.
