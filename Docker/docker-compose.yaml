@@ -1,0 +1,16 @@
+version: '3.5'
+
+services:
+    jupyter_notebook:
+        build:
+            context: .
+            dockerfile: ./jupyter_notebook/build/Dockerfile
+        volumes:
+            - ./jupyter_notebook:/root/jupyter_notebook
+        ports:
+            - "${JUPYTER_NB_PORT}:8888" #Â§ñ„Å´Âá∫„Åô„?ù„?º„Éà„ÇíÊå?ÂÆ?
+        environment:
+            TZ: "Asia/Tokyo"
+        networks:
+            - default
+        command: jupyter notebook --ip=0.0.0.0 --port=8888 --allow-root --no-browser --NotebookApp.notebook_dir='/root/jupyter_notebook/codes' --NotebookApp.token=''
