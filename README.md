@@ -6,17 +6,17 @@ Original download file is [here](https://www.shuwasystem.co.jp/support/7980html/
 ## Objective Phases
 
 Learn from examples to implement variety of minimal viable products in the streams of advanced analytics.
-1. First Stage
-   1. Finish Part 1 by End of Goldenweek Holidays (2022/05/08)
+1. **First Stage**
+   1. Finish Part 1 by End of Goldenweek Holidays (**2022/05/08**)
    2. Finish Part 2 (TBD : By Early June for now)
 
-2. Second Stage
+2. **Second Stage**
    1. Come up with quick-win strategies + implementation that can be done in current working environment.
    2. Adapt the learning from the book to real business, especially in my current working environment to speed up and automate redundant processes that sucks up important resources of the company.
 
 ## Potential Output after Finishing 2 Phases
 
-1. Automation of redundant processes.
+1. Automation of redundant processes. (Reading dirty)
 2. Applying simple but robust ML model on frequent refreshed datasets.
 3. Building dashboard using python to rack core KPI
 4. Build docker container to run jobs sustainably.
